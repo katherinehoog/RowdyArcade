@@ -224,7 +224,10 @@ def main():
 if __name__ == '__main__':
     main()
 
-
+# used to help create pong:
+# https://realpython.com/pygame-a-primer/#conclusion
+# https://www.101computing.net/pong-tutorial-using-pygame-adding-a-scoring-system/
+# https://www.youtube.com/watch?v=Qf3-aDXG8q4
 # In[ ]:
 
 
